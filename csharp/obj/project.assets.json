@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pastrycak3s/projects/leetcode/twosum/twosum.csproj",
-      "projectName": "twosum",
-      "projectPath": "/home/pastrycak3s/projects/leetcode/twosum/twosum.csproj",
+      "projectUniqueName": "/home/pastrycak3s/projects/leetcode/csharp/csharp.csproj",
+      "projectName": "csharp",
+      "projectPath": "/home/pastrycak3s/projects/leetcode/csharp/csharp.csproj",
       "packagesPath": "/home/pastrycak3s/.nuget/packages/",
-      "outputPath": "/home/pastrycak3s/projects/leetcode/twosum/obj/",
+      "outputPath": "/home/pastrycak3s/projects/leetcode/csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pastrycak3s/.nuget/NuGet/NuGet.Config"
