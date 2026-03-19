@@ -20,4 +20,14 @@ public class Palindrome
 
         return true;
     }
+
+    public bool solveMathVersion(int number)
+    {
+        //reverse the input number and then compare
+        int mutation = 0;
+
+        //TODO fill in
+
+        return number == mutation;
+    }
 }
